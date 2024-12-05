@@ -1,0 +1,405 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Semesters Data/Semester 7/Computer Architecture/Lab 11/R Type VScode
+T_opt
+!s110 1733387295
+VeA<NABIcHNdeoeF3GC?TQ0
+04 12 4 work tb_processor fast 0
+=1-2cea7f23ac1d-6751641f-a0-5208
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+R0
+valu
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1733390761
+!i10b 1
+!s100 Ee`eU5;P08eUB8=0PO:c<3
+IUTchEzoS2b9MNYYhdUOz;3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_sv_unit
+S1
+R0
+Z5 w1733387043
+8./alu.sv
+F./alu.sv
+L0 1
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z7 !s108 1733390761.000000
+!s107 ./writeback_mux.sv|./tb_processor.sv|./reg_file.sv|./processor.sv|./pc_mux.sv|./pc.sv|./opr_A_mux.sv|./inst_mem.sv|./inst_dec.sv|./imm_gen.sv|./data_mem.sv|./csr.sv|./controller.sv|./branch_cond_gen.sv|./alu_mux.sv|./alu.sv|
+Z8 !s90 ./alu.sv|./alu_mux.sv|./branch_cond_gen.sv|./controller.sv|./csr.sv|./data_mem.sv|./imm_gen.sv|./inst_dec.sv|./inst_mem.sv|./opr_A_mux.sv|./pc.sv|./pc_mux.sv|./processor.sv|./reg_file.sv|./tb_processor.sv|./writeback_mux.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu_mux
+R2
+R3
+!i10b 1
+!s100 ?DNk3BdQFTm[>RzN@S:I<0
+I<h3CJHP26XNoOAQh5795g2
+R4
+!s105 alu_mux_sv_unit
+S1
+R0
+R5
+8./alu_mux.sv
+F./alu_mux.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 ./writeback_mux.sv|./tb_processor.sv|./reg_file.sv|./processor.sv|./pc_mux.sv|./pc.sv|./opr_A_mux.sv|./inst_mem.sv|./inst_dec.sv|./imm_gen.sv|./data_mem.sv|./csr.sv|./controller.sv|./branch_cond_gen.sv|./alu_mux.sv|./alu.sv|
+R8
+!i113 0
+R9
+R1
+vbranch_cond_gen
+R2
+R3
+!i10b 1
+!s100 G3U?_eBaLINZIJ@0LJ<kJ0
+IGcO7W8MollgIzC7TzDX?90
+R4
+!s105 branch_cond_gen_sv_unit
+S1
+R0
+R5
+8./branch_cond_gen.sv
+F./branch_cond_gen.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vcontroller
+R2
+R3
+!i10b 1
+!s100 Wn[VERzMmd`R4Lb;8hHJP3
+I6PcQYe=Sgn=S@cS@k8>H32
+R4
+!s105 controller_sv_unit
+S1
+R0
+R5
+8./controller.sv
+F./controller.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vcsr
+R2
+R3
+!i10b 1
+!s100 nd2EXohVUAieidzbO0AXG0
+In77f1_CceYSGZ1]N=J_nK0
+R4
+!s105 csr_sv_unit
+S1
+R0
+R5
+8./csr.sv
+F./csr.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vdata_mem
+R2
+R3
+!i10b 1
+!s100 mRki@44J7Pa``N[0ER3k62
+I_:V5F;F;k@W9<E=_DYJ4a1
+R4
+!s105 data_mem_sv_unit
+S1
+R0
+R5
+8./data_mem.sv
+F./data_mem.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vimm_gen
+R2
+R3
+!i10b 1
+!s100 [56HNEkAK>giZhJTP6U?N0
+IMYW^UBK9c_3a2QUQLGM;=3
+R4
+!s105 imm_gen_sv_unit
+S1
+R0
+R5
+8./imm_gen.sv
+F./imm_gen.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vinst_dec
+R2
+R3
+!i10b 1
+!s100 0Gh`_lm=H`XI9Gnj8m<U62
+IF5mO:cPc4_7QiI_^P]F@a2
+R4
+!s105 inst_dec_sv_unit
+S1
+R0
+R5
+8./inst_dec.sv
+F./inst_dec.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vinst_mem
+R2
+R3
+!i10b 1
+!s100 ld481D61NFNR6UThR02z52
+ILDGVPUCj7_6fI_iUWH59I0
+R4
+!s105 inst_mem_sv_unit
+S1
+R0
+R5
+8./inst_mem.sv
+F./inst_mem.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vopr_A_mux
+R2
+R3
+!i10b 1
+!s100 1JHgDN5Y^j1zP0KWje][M0
+I97F1IGj7LZnOn;KPVVDl80
+R4
+!s105 opr_A_mux_sv_unit
+S1
+R0
+R5
+8./opr_A_mux.sv
+F./opr_A_mux.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+nopr_@a_mux
+vpc
+R2
+R3
+!i10b 1
+!s100 ?n64=DN6NR0?[^0lFz46P1
+I2N7ZV9kHROQCBl4NgWa;11
+R4
+!s105 pc_sv_unit
+S1
+R0
+R5
+8./pc.sv
+F./pc.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vpc_mux
+R2
+R3
+!i10b 1
+!s100 M81a_3Q?n=9ELDF@^EEQi1
+I51=h?V1^U:]l@<`d@ogXi2
+R4
+!s105 pc_mux_sv_unit
+S1
+R0
+R5
+8./pc_mux.sv
+F./pc_mux.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vprocessor
+R2
+R3
+!i10b 1
+!s100 `gWo5PofQe4<:]oR9DmSo1
+IKXdKJ[E?_OkkQ>ej?k6Ln3
+R4
+!s105 processor_sv_unit
+S1
+R0
+Z11 w1733387044
+8./processor.sv
+F./processor.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vreg_file
+R2
+R3
+!i10b 1
+!s100 L^ZoL@k]3;I85:XVUHbCK3
+I1K;_EVHN<k;>8]]nT[Be>0
+R4
+!s105 reg_file_sv_unit
+S1
+R0
+R11
+8./reg_file.sv
+F./reg_file.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vtb_processor
+R2
+R3
+!i10b 1
+!s100 l91`g14K95fZCmihB25AP0
+IFzG<:4b2>@h_eo>1eXdgB2
+R4
+!s105 tb_processor_sv_unit
+S1
+R0
+R11
+8./tb_processor.sv
+F./tb_processor.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
+vwriteback_mux
+R2
+R3
+!i10b 1
+!s100 cQjYFPIgo@J@JZn7nW`gZ2
+Ib7T0XCG86n0zLYMRl2Jan0
+R4
+!s105 writeback_mux_sv_unit
+S1
+R0
+R11
+8./writeback_mux.sv
+F./writeback_mux.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R1
